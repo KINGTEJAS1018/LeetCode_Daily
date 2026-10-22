@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
