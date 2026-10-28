@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -113,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
