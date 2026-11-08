@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1267-count-servers-that-communicate](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/1267-count-servers-that-communicate) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -122,19 +123,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
@@ -157,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
