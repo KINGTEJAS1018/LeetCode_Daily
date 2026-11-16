@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -188,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3364-minimum-positive-sum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
