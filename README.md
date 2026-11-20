@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3364-minimum-positive-sum-subarray](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KINGTEJAS1018/LeetCode_Daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
